@@ -48,7 +48,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <img src="assets/images/logo.png">
+              <img src="assets/images/logo.jpeg">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -455,7 +455,7 @@
         <div class="col-lg-3">
           <div class="about footer-item">
             <div class="logo">
-              <a href="#"><img src="assets/images/logo.png" alt="AoristAI"></a>
+              <a href="#"><img src="assets/images/logo.jpeg" alt="AoristAI"></a>
             </div>
             <a href="#">info@company.com</a>
             <ul>
