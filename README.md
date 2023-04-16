@@ -448,6 +448,7 @@
   <div class="footer-dec">
     <img src="assets/images/footer-dec.png" alt="">
   </div>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8937280226879055" crossorigin="anonymous"></script>
 
   <footer>
     <div class="container">
