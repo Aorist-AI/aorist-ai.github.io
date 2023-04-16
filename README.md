@@ -22,6 +22,11 @@
     <link rel="stylesheet" href="assets/css/templatemo-onix-digital.css">
     <link rel="stylesheet" href="assets/css/animated.css">
     <link rel="stylesheet" href="assets/css/owl.css">
+    
+    <!-- Google ads-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8937280226879055"
+     crossorigin="anonymous"></script>
+
 
   </head>
 
@@ -448,9 +453,7 @@
   <div class="footer-dec">
     <img src="assets/images/footer-dec.png" alt="">
   </div>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8937280226879055"
-     crossorigin="anonymous"></script>
-
+  
   <footer>
     <div class="container">
       <div class="row">
