@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
     <meta name="description" content="Aorist-AI is an open source software library for data engineers, data scientists, and data analysts.">
-    <meta name="keywords" content="Aorist-AI, open source, software library, data engineers, data scientists, data analysts">
+    <meta name="keywords" content="Aorist-AI, open source, software library, data engineers, data scientists, data analysts, machine learning, AI, artificial intelligence, computer vision">
     <meta name="author" content="Aorist-AI">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="favicon.ico">
